@@ -1,0 +1,16 @@
+{
+    "name": "dell/mvcnamespace",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "./Core",
+            "Controller\\": "./Controllers",
+            "Model\\": "./Models"
+        }
+    },
+    "authors": [
+        {
+            "name": "Junaid"
+        }
+    ],
+    "require": {}
+}
