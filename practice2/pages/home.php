@@ -1,2 +1,0 @@
-<h1>Home</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio repellat nobis voluptates molestiae magni enim modi! Aliquam sint, reprehenderit labore eaque praesentium nesciunt commodi explicabo maxime veniam, sed sequi ea?</p>
