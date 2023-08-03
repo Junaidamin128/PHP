@@ -1,0 +1,17 @@
+{% if $title %}
+<h1>{$title}</h1>
+{% else %}
+<h1>BYE</h1>
+{% endif %}
+
+<oL>
+{% foreach $data as $d %}
+<li>{$d}</li>
+{% endforeach %}
+</ol>
+
+<uL>
+{% for $i=0;$i<10;$i++ %}
+<li>{$i}</li>
+{% endfor %}
+</ul>
